@@ -159,7 +159,7 @@ MonoBehaviour:
   m_MinSize: {x: 917, y: 392}
   m_MaxSize: {x: 22012, y: 14042}
   vertical: 0
-  controlID: 140
+  controlID: 11
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -183,7 +183,7 @@ MonoBehaviour:
   m_MinSize: {x: 640, y: 392}
   m_MaxSize: {x: 18010, y: 14042}
   vertical: 1
-  controlID: 107
+  controlID: 12
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -319,12 +319,8 @@ MonoBehaviour:
     m_ValueSerializationHelper:
     - {x: 1020.60004, y: 297}
   m_PreviewAnimator: {fileID: 0}
-  m_AnimatorController: {fileID: 9100000, guid: 6248250b5d687cb4b8d2d44bc3d19a61,
-    type: 2}
-  m_BreadCrumbs:
-  - m_Target: {fileID: 1107018178124506678, guid: 6248250b5d687cb4b8d2d44bc3d19a61,
-      type: 2}
-    m_ScrollPosition: {x: 0, y: 0}
+  m_AnimatorController: {fileID: 0}
+  m_BreadCrumbs: []
   stateMachineGraph: {fileID: 0}
   stateMachineGraphGUI: {fileID: 0}
   blendTreeGraph: {fileID: 0}
@@ -452,18 +448,18 @@ MonoBehaviour:
       y: 17
       width: 974
       height: 585
-    m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 487, y: 292.5}
+    m_Scale: {x: 1.5125892, y: 1.5125892}
+    m_Translation: {x: 436.99857, y: 290.9985}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -487
-      y: -292.5
-      width: 974
-      height: 585
+      x: -288.90762
+      y: -192.38435
+      width: 643.92896
+      height: 386.75406
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
@@ -500,9 +496,9 @@ MonoBehaviour:
     height: 602
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: 1afcffff00000000
+    m_SelectedIDs: 108afeff
+    m_LastClickedID: -95728
+    m_ExpandedIDs: 108afeff62bdffffc6c8ffffc8fbffff16fcffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -557,9 +553,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.17564055, y: 1.0130674, z: 0}
+    m_Target: {x: 3.3618076, y: -0.47433186, z: 0}
     speed: 2
-    m_Value: {x: -0.17564055, y: 1.0130674, z: 0}
+    m_Value: {x: 3.3618076, y: -0.47433186, z: 0}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -586,14 +582,14 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 9.409572
+    m_Target: 11.420103
     speed: 2
-    m_Value: 9.409572
+    m_Value: 11.420103
   m_Ortho:
     m_Target: 1
     speed: 2
     m_Value: 1
-  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+  m_LastSceneViewRotation: {x: 0.08717229, y: -0.89959055, z: 0.21045254, w: 0.3726226}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -637,19 +633,18 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Objects/Characters
+    - Assets/Objects
   m_ViewMode: 0
   m_StartGridSize: 64
-  m_LastFolders:
-  - Assets
+  m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\Unity\Projects\platformer\Platformer
+  m_LastProjectPath: D:\Platformer\Platformer
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 2c260000
     m_LastClickedID: 9772
-    m_ExpandedIDs: 000000001a26000022260000262600002a260000362600003e2600004626000050260000982600009c260000a8260000b4270000b6270000b8270000ba270000bc270000be270000c0270000c2270000c4270000
+    m_ExpandedIDs: 000000002a26000032260000362600003a260000462600004e2600005626000060260000a8260000ac260000b8260000be270000c0270000c2270000c4270000c6270000c8270000ca270000cc270000ce270000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -674,24 +669,24 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 76}
+    scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000001a26000022260000262600002a260000362600003e2600004626000050260000982600009c260000a8260000b4270000b6270000b8270000ba270000bc270000be270000c0270000c2270000c4270000
+    m_ExpandedIDs: 0427fdff000000002a26000032260000342600003a26000060260000ac260000b8260000be270000c0270000c2270000c4270000c6270000c8270000ca270000cc270000ce270000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: MainMenu
+      m_OriginalName: MainMenu
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 10990
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 3}
     m_SearchString: 
